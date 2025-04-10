@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as s
 import subprocess
 import sys
 import pandas as pd
