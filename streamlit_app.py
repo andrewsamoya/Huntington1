@@ -11,8 +11,6 @@ from statsmodels.tsa.ar_model import AutoReg
 from statsmodels.tsa.stattools import adfuller
 
 st.set_page_config(layout="wide", page_title="Savings Rate Prediction Dashboard")
-st.set_page_config(layout="wide", page_title="Savings Rate Prediction Dashboard")
-
 
 # Page title and description
 st.title("Personal Savings Rate Prediction Dashboard")
